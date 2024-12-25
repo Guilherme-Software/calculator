@@ -25,6 +25,6 @@ A simple Python calculator using Tkinter as the interface.
    - `AC` - Used to clear the input
    - `=` - Used to calculate the result
 
-  # Autor
+  # Author
   Guilherme
   
