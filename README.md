@@ -2,8 +2,8 @@
 A simple Python calculator using Tkinter as the interface.
 
 ## Preview
-(![Captura de tela 2024-12-25 143419](https://github.com/user-attachments/assets/d12aadaa-a764-4309-bdf4-f868d8796e3e)
-)
+![Captura de tela 2024-12-25 143419](https://github.com/user-attachments/assets/d12aadaa-a764-4309-bdf4-f868d8796e3e)
+
 
 ## Technologies Used
 - Python
